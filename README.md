@@ -53,6 +53,7 @@ Machine Learning data analysis tools:
 * [Scikit-learn](https://scikit-learn.org/stable/)
 
 System Overview:
+<p>
 <img src="https://github.com/mkchan671/SonarCryptanalysis/blob/main/system-overview.png" width="100" height="100">
 
 <!-- GETTING STARTED -->
