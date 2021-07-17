@@ -72,7 +72,7 @@ System Overview:
 
 <!-- CONTACT -->
 ## Contact
-Robert Chan- [LinkedIn: robchan3](https://www.linkedin.com/in/robchan3/) - e-mail: mkchan671@hotmail.com.hk
+Robert Chan- [LinkedIn: robchan3](https://www.linkedin.com/in/robchan3/) - [E-mail: mkchan671@hotmail.com.hk](mailto:mkchan671@hotmail.com.hk)
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements
 <!-- MARKDOWN LINKS & IMAGES -->
