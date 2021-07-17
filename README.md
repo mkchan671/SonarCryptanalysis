@@ -29,7 +29,7 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-CHAN Ming Kei Robert - Final Year Project during study for BScEng Computer Science in City University of Hong Kong
+Final Year Project during study for BScEng Computer Science in City University of Hong Kong
 
 This project was inspired from [SonarSnoop](https://arxiv.org/abs/1808.10250) a research study on acoustic system of a smartphoe can be turned into a mobile sonar system; researchers from Cornell University have proven that sensitive information like lock patterns could be stolen on air.
 
