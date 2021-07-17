@@ -1,5 +1,6 @@
 <!-- PROJECT SHIELDS -->
-[![LinkedIn][linkedin-shield]][linkedin-url]
+[![LinkedIn][linkedin-shield]] [linkedin-url]
+
 # SonarCryptanalysis
 
 <!-- TABLE OF CONTENTS -->
@@ -78,4 +79,5 @@ Robert Chan- [LinkedIn: robchan3](https://www.linkedin.com/in/robchan3/) - [E-ma
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements
 <!-- MARKDOWN LINKS & IMAGES -->
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]:https://www.linkedin.com/in/robchan3/
