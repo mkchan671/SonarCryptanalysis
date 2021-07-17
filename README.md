@@ -57,7 +57,7 @@ Machine Learning data analysis tools:
 
 System Overview:
 <p>
-<img src="https://github.com/mkchan671/SonarCryptanalysis/blob/40186f6d2711c06158b5cc7544768e9617072cdc/system-overview.png" width="100" height="100">
+<img src="https://github.com/mkchan671/SonarCryptanalysis/blob/41b0fe5b200a868935947c3425d3c77835315b49/SystemOverview.jpg" width="100" height="100">
 
 <!-- GETTING STARTED -->
 ## Getting Started
