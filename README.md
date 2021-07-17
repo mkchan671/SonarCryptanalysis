@@ -47,8 +47,10 @@ Signal Processing (Raw audio -> image -> feature extraction):
 * [Librosa - Audio Processing](https://librosa.org/)
 * [Numpy](https://numpy.org)
 * [OpenCV](https://opencv.org/)
+
 Dataset manipulation:
 * [Pandas](https://pandas.pydata.org/)
+
 Machine Learning data analysis tools:
 * [Scikit-learn](https://scikit-learn.org/stable/)
 
