@@ -68,7 +68,7 @@ Language:
 
 IDE:
 * [Jupyter](https://jupyter.org/)
-
+* [NVIDIA Machine Learning Container for Jetson and JetPack](https://ngc.nvidia.com/catalog/containers/nvidia:l4t-ml)
 Python packages used:
 Web server:
 * [Flask](https://flask.palletsprojects.com/en/2.0.x/)
