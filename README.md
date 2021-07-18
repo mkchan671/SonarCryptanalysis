@@ -2,7 +2,7 @@
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
 # Active acoustic cryptanalysis on smartphone
-<!-- TABLE OF CONTENTS -->
+<!-- TABLE OF CONTENTS 
 <details open="open">
   <summary>Table of Contents</summary>
   <ol>
@@ -24,7 +24,7 @@
     <li><a href="#acknowledgements">Acknowledgements</a></li>
   </ol>
 </details>
-
+-->
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
@@ -84,8 +84,8 @@ Machine Learning data analysis tools:
 System Overview:
 <p>
 <img src="https://github.com/mkchan671/SonarCryptanalysis/blob/41b0fe5b200a868935947c3425d3c77835315b49/SystemOverview.jpg">
-
-<!-- GETTING STARTED -->
+<!--
+<!-- GETTING STARTED --
 ## Getting Started
 
 
@@ -95,15 +95,15 @@ System Overview:
 ### Installation
 
 
-<!-- USAGE EXAMPLES -->
+<!-- USAGE EXAMPLES --
 ## Usage
-
+-->
 
 <!-- CONTACT -->
 ## Contact
 Robert Chan- [LinkedIn: robchan3](https://www.linkedin.com/in/robchan3/) - [E-mail: mkchan671@hotmail.com.hk](mailto:mkchan671@hotmail.com.hk)
-<!-- ACKNOWLEDGEMENTS -->
-## Acknowledgements
+<!-- ACKNOWLEDGEMENTS 
+## Acknowledgements-->
 <!-- MARKDOWN LINKS & IMAGES -->
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]:https://www.linkedin.com/in/robchan3/
