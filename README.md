@@ -43,6 +43,7 @@ This project was inspired from [SonarSnoop](https://arxiv.org/abs/1808.10250) a 
 The propagated signal analysed by mobile app only.
 
 2. PIN code stealing/guessing:
+
 After victim input the pin
 <img src="https://github.com/mkchan671/SonarCryptanalysis/blob/37d63571cb963b98f794fd6e52caac08cae5b0f0/pin-input.gif">
 
