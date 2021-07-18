@@ -54,7 +54,7 @@ Server will received and prcossed the data, and return prediction from trained m
 
 ### Built With
 
-This project was majorly depends on:
+This project was majorly developed on:
 Mobile App:
 * Android studio - Java
 
@@ -63,8 +63,11 @@ Hardware used during Data colleting stage:
 * Samsung Galaxy S7
 * [NVIDIA Jetson Nano 2GB Developer Kit](https://developer.nvidia.com/embedded/jetson-nano-2gb-developer-kit)
 
-Python IDE:
-* Jupyter
+Language:
+* Python3
+
+IDE:
+* [Jupyter](https://jupyter.org/)
 
 Python packages used:
 Web server:
