@@ -101,8 +101,9 @@ System Overview:
 
 <!-- CONTACT -->
 ## Contact
-Demo or source code could be provided upon request.
 Robert Chan- [LinkedIn: robchan3](https://www.linkedin.com/in/robchan3/) - [E-mail: mkchan671@hotmail.com.hk](mailto:mkchan671@hotmail.com.hk)
+
+Demo or source code could be provided upon request.
 <!-- ACKNOWLEDGEMENTS 
 ## Acknowledgements-->
 <!-- MARKDOWN LINKS & IMAGES -->
